@@ -11,7 +11,7 @@ SHORT_BREAK_MIN = 5
 LONG_BREAK_MIN = 20
 reps = 0
 i = 1
-timer = None # no value
+timer = None
 # ---------------------------- TIMER RESET ------------------------------- # 
 
 def reset():
